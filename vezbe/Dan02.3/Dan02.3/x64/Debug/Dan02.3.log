@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Nataliyay\source\repos\Dan02.3\Dan02.3\main.cpp(29,9): error C2059: syntax error: ','
+C:\Users\Nataliyay\source\repos\Dan02.3\Dan02.3\main.cpp(34,9): error C2065: 'broj': undeclared identifier
+C:\Users\Nataliyay\source\repos\Dan02.3\Dan02.3\main.cpp(37,2): error C2065: 'rezultat': undeclared identifier
+C:\Users\Nataliyay\source\repos\Dan02.3\Dan02.3\main.cpp(37,22): error C2065: 'broj': undeclared identifier
+C:\Users\Nataliyay\source\repos\Dan02.3\Dan02.3\main.cpp(38,28): error C2065: 'rezultat': undeclared identifier
